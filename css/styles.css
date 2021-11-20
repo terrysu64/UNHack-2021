@@ -11321,3 +11321,8 @@ header {
     background-image: linear-gradient(red, darkred);
     border-color: red;
 }
+
+.grid {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
