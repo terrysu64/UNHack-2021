@@ -6,7 +6,7 @@ The project deals with the woes and challenges teens and youth in general face w
 
 A root to this issue is the lack of a currently existing platform tailored towards this niche of youth (High school to first-year university) students. 
 
-Hence, to tackle this persisting issue, we are creating a system that allows one to search for co-op/part-time job opportunities tailored for younger teens. Often, from our experience, when looking for a job, they will all say "Level of study: undergraduate,"
+Hence, to tackle this persisting issue, we are creating a system that allows one to search for co-op/part-time job opportunities tailored for younger teens. Often, from our experience, when seeking various employment opportunities, they will all say "Level of study: undergraduate,"
 or "First-Year (university)." Which makes the pursual of a job quite discouraging. 
 
 With this system, we can help students like us find work and opportunities
