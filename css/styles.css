@@ -11312,3 +11312,12 @@ header {
   display: flex;
   justify-content: center;
 }
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-image: linear-gradient(red, darkred);
+    border-color: red;
+}
