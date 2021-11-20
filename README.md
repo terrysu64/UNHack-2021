@@ -15,7 +15,9 @@ intangible to the average high school student. Such as interning on Wall Street,
 shovelling snow, and more.
 
 To further the purpose of our program, we have also implemented a mentee-mentor platform for people who are interested in different fields of study. Ultimately, this
-would eliminate the need for seasonal and rare webinars that happen once or twice a year for students who would like to interact with industry professionals or university students. This system would allow these industry professionals and university students to join and be readily accessible almost anytime to answer young teens' 
+would eliminate the need for seasonal and rare webinars that happen once or twice a year for students who would like to interact with industry professionals or university students. 
+
+This system would allow these industry professionals and university students to join and be readily accessible almost anytime to answer young teens' 
 questions regarding experience, work/co-op opportunities and most importantly, build a network that will suit them for their future endeavours. In addition, this networking aspect
 will allow students to gain a one-to-one connection with their mentors in contrast to industry webinars where the speakers will never know who you are.
 
